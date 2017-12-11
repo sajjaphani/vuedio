@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 
-#VS Code
+# VS Code
 .vscode
 
 # testing
