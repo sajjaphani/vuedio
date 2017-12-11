@@ -1,0 +1,55 @@
+{
+  "data": {
+    "feed": {
+      "Trailers": ["post011", "post012", "post013"]
+    },
+    "posts": {
+      "post011": {
+        "title":
+          "Padmavati | Official Trailer | 1st December | Ranveer Singh | Shahid Kapoor | Deepika Padukone",
+        "url": "https://www.youtube.com/watch?v=X_5_BLt76c0",
+        "author": "Viacom18 Motion Pictures",
+        "author_url": "https://www.youtube.com/user/Viacom18Movies",
+        "provider_name": "YouTube",
+        "description":
+          "Presenting the Official Trailer of Padmavati starring Deepika Padukone, Ranveer Singh, Shahid Kapoor, Aditi Rao Hydari and Jim Sarbh. Directed by Sanjay Leel...",
+        "thumbnail_url": "https://i.ytimg.com/vi/X_5_BLt76c0/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "html":
+          "<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://www.youtube.com/embed/X_5_BLt76c0?feature=oembed\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>"
+      },
+      "post012": {
+        "title": "Stratton Trailer #1 (2017) | Movieclips Trailers",
+        "url": "https://www.youtube.com/watch?v=cFoBq-oOqUs",
+        "author": "Movieclips Trailers",
+        "author_url": "https://www.youtube.com/user/movieclipsTRAILERS",
+        "provider_name": "YouTube",
+        "description":
+          "Stratton Trailer #1 (2017): Check out the new trailer starring Connie Nielsen, Tom Felton, and Dominic Cooper ! Be the first to watch, comment, and share tra...",
+        "thumbnail_url": "https://i.ytimg.com/vi/cFoBq-oOqUs/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "html":
+          "<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://www.youtube.com/embed/cFoBq-oOqUs?feature=oembed\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>"
+      },
+      "post013": {
+        "title": "The Post Trailer #1 (2017) | Movieclips Trailers",
+        "url": "https://www.youtube.com/watch?v=P49iVsdItkM",
+        "author": "Movieclips Trailers",
+        "author_url": "https://www.youtube.com/user/movieclipsTRAILERS",
+        "provider_name": "YouTube",
+        "description":
+          "The Post Trailer #1 (2017): Check out the new teaser trailer starring Alison Brie, Tom Hanks, and Sarah Paulson! Be the first to watch, comment, and share tr...",
+        "thumbnail_url": "https://i.ytimg.com/vi/P49iVsdItkM/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "html":
+          "<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://www.youtube.com/embed/P49iVsdItkM?feature=oembed\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>"
+      }
+    }
+  },
+  "pagination": {
+    "next": "<some-paging-url>"
+  }
+}

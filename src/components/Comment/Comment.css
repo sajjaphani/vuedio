@@ -1,0 +1,97 @@
+.CommentsList .CommentBox {
+    width: 718px;
+    float: right;
+    position: relative;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+ }
+ 
+ .CommentsList .CommentBox:before, .CommentsList .CommentBox:after {
+    content: '';
+    height: 0;
+    width: 0;
+    position: absolute;
+    display: block;
+    border-width: 10px 12px 10px 0;
+    border-style: solid;
+    border-color: transparent #FCFCFC;
+    top: 8px;
+    left: -11px;
+ }
+ 
+ .CommentsList .CommentBox:before {
+    border-width: 11px 13px 11px 0;
+    border-color: transparent rgba(0,0,0,0.05);
+    left: -12px;
+ }
+ 
+ .ReplyList .CommentBox {
+    width: 668px;
+ }
+ 
+ .CommentBox .CommentHeader {
+    background: #FCFCFC;
+    padding: 10px 12px;
+    /* border-bottom: 1px solid #E5E5E5; */
+    overflow: hidden;
+    -webkit-border-radius: 4px 4px 0 0;
+    -moz-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+ }
+ 
+ .CommentBox .CommentUser {
+    color: #283035;
+    font-size: 14px;
+    font-weight: 700;
+    float: left;
+    margin-right: 10px;
+ }
+ 
+ .CommentBox .CommentUser a {
+    color: #283035;
+ }
+ 
+ .CommentBox .CommentHeader span {
+    /* float: left; */
+    color: #999;
+    font-size: 13px;
+    position: relative;
+    top: 1px;
+ }
+
+ .CommentsList .CommentAvatar {
+    width: 36px;
+    height: 36px;
+    position: relative;
+    z-index: 99;
+    float: left;
+    border: 1px solid #FFF;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    overflow: hidden;
+ }
+ 
+ .CommentsList .CommentAvatar img {
+    width: 100%;
+    height: 100%;
+ }
+ 
+ .ReplyList .CommentAvatar {
+    width: 36px;
+    height: 36px;
+ }
+ 
+.CommentBox .CommentFooter {
+    background: #FCFCFC;
+    padding: 0 12px 12px;
+    font-size: 15px;
+    color: #595959;
+    -webkit-border-radius: 0 0 4px 4px;
+    -moz-border-radius: 0 0 4px 4px;
+    border-radius: 0 0 4px 4px;
+ }

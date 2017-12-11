@@ -1,0 +1,16 @@
+.VideoGrid {
+  margin-bottom: 20px;
+}
+
+.GridLabel {
+  color: #b4886b;
+  font-weight: bold;
+  font-size: 120%;
+  margin-bottom: 10px;
+}
+
+#PostGridItem .GridItemTitle {
+  line-height: 1em;
+  height: 2em;
+  overflow: hidden;
+}

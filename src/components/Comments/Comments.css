@@ -1,0 +1,112 @@
+ .CommentsSection * {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/** ====================
+* Lista de Comentarios
+=======================*/
+.CommentsContainer {
+   margin: 0px 5px 15px;
+   width: 768px;
+}
+
+.CommentsContainer h1 {
+   font-size: 36px;
+   color: #283035;
+   font-weight: 400;
+   margin-bottom: 10px;
+}
+
+.CommentsContainer h1 a {
+   font-size: 18px;
+   font-weight: 700;
+}
+
+.CommentsList {
+   margin-top: 30px;
+   position: relative;
+}
+
+.CommentsList:before {
+   content: '';
+   width: 2px;
+   height: 100%;
+   background: #c7cacb;
+   position: absolute;
+   left: 18px;
+   top: 0;
+}
+
+.CommentsList:after {
+   /* content: ''; */
+   position: absolute;
+   background: #c7cacb;
+   bottom: 0;
+   left: 27px;
+   width: 7px;
+   height: 7px;
+   border: 3px solid #dee1e3;
+   -webkit-border-radius: 50%;
+   -moz-border-radius: 50%;
+   border-radius: 50%;
+}
+
+.ReplyList:before, .ReplyList:after {display: none;}
+.ReplyList li:before {
+   content: '';
+   width: 60px;
+   height: 2px;
+   background: #c7cacb;
+   position: absolute;
+   top: 15px;
+   left: -30px;
+}
+
+.CommentsList li {
+   margin-bottom: 15px;
+   display: block;
+   position: relative;
+}
+
+.CommentsList li:after {
+   content: '';
+   display: block;
+   clear: both;
+   height: 0;
+   width: 0;
+}
+
+.ReplyList {
+   padding-left: 50px;
+   clear: both;
+   margin-top: 15px;
+}
+
+.CommentMainLevel:after {
+   content: '';
+   width: 0;
+   height: 0;
+   display: block;
+   clear: both;
+}
+
+/** =====================
+* Responsive
+========================*/
+/* @media only screen and (max-width: 766px) {
+   .CommentsContainer {
+       width: 480px;
+   }
+
+   .CommentsList .CommentBox {
+       width: 390px;
+   }
+
+   .ReplyList .CommentBox {
+       width: 320px;
+   }
+} */

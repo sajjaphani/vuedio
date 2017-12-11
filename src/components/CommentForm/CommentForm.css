@@ -1,0 +1,30 @@
+.CommentFormContainer {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.CommentFormContainer .CommentAvatar {
+  width: 36px;
+  height: 36px;
+  position: relative;
+  z-index: 99;
+  /* float: left; */
+  border: 1px solid #fff;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  margin-right: 10px;
+}
+
+.CommentAvatar {
+    float: left
+}
+
+.CommentForm {
+    /* background: cyan; */
+    overflow: hidden
+}

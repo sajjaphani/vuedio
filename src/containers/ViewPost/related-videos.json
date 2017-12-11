@@ -1,0 +1,82 @@
+{
+  "relatedVideos": [
+    {
+      "id": "rv001",
+      "url": "https://www.youtube.com/watch?v=uChJ9PzL3mI",
+      "title": "Mix Vegetable Khichdi - By VahChef @ VahRehVah.com",
+      "author": "Vahchef - VahRehVah",
+      "author_url": "https://www.youtube.com/user/vahchef",
+      "provider_name": "YouTube",
+      "description":
+        "Mix Vegetable Khichdi is a traditional Indian dish commonly made with rice, lentils and various vegetables. This dish is simple yet very delicious to eat. ht...",
+      "thumbnail_url": "https://i.ytimg.com/vi/uChJ9PzL3mI/maxresdefault.jpg",
+      "thumbnail_width": 626,
+      "thumbnail_height": 347,
+      "html":
+        "<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://www.youtube.com/embed/uChJ9PzL3mI?feature=oembed&amp;autoplay=1\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>",
+      "userId": "",
+      "category": "",
+      "language": "",
+      "postedOn": "",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "rv002",
+      "url": "https://www.youtube.com/watch?v=mNgNutnO2FE",
+      "title": "200 YEARS OLD MUGHAL CUISINE | #AMBUR BIRYANI | AMBUR ORIGINAL STAR BIRYANI | World Famous Biryani",
+      "author": "STREET FOOD",
+      "author_url": "https://www.youtube.com/user/my3streetfood",
+      "provider_name": "YouTube",
+      "description": "200 YEARS OLD MUGHAL CUISINE | #AMBUR BIRYANI | AMBUR ORIGINAL STAR BIRYANI | World Famous Biryani Ingredients 1 kg rice 1 kg mutton Refined oil 300 ml Garli...",
+      "thumbnail_url": "https://i.ytimg.com/vi/mNgNutnO2FE/maxresdefault.jpg",
+      "thumbnail_width": 626,
+      "thumbnail_height": 347,
+      "html": "<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://www.youtube.com/embed/mNgNutnO2FE?feature=oembed&amp;autoplay=1\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>",
+      "userId": "",
+      "category": "",
+      "language": "",
+      "postedOn": "",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "rv003",
+      "url": "https://www.youtube.com/watch?v=ulKN84bc82w",
+      "title": "Delicious Banana Recipe | Banana Fry By Our Granny Mastanamma",
+      "author": "Country Foods",
+      "author_url": "https://www.youtube.com/channel/UCKEPJo5eTHbKDgHxvUSR9Jw",
+      "provider_name": "YouTube",
+      "description": "",
+      "thumbnail_url": "https://i.ytimg.com/vi/ulKN84bc82w/maxresdefault.jpg",
+      "thumbnail_width": 626,
+      "thumbnail_height": 347,
+      "html": "<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://www.youtube.com/embed/ulKN84bc82w?feature=oembed&amp;autoplay=1\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>",
+      "userId": "",
+      "category": "",
+      "language": "",
+      "postedOn": "",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "rv004",
+      "url": "https://www.youtube.com/watch?v=OJr98tgxDUU",
+      "title": "Awwwwards - Website of the day review",
+      "author": "Ihatetomatoes",
+      "author_url": "https://www.youtube.com/user/ihatetomatoesblog",
+      "provider_name": "YouTube",
+      "description": "Lets have a look under the hood of 3 websites of the day and find out how were some of the CSS and JS animations created. Have you seen a website worth decon...",
+      "thumbnail_url": "https://i.ytimg.com/vi/OJr98tgxDUU/maxresdefault.jpg",
+      "thumbnail_width": 626,
+      "thumbnail_height": 347,
+      "html": "<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://www.youtube.com/embed/OJr98tgxDUU?feature=oembed&amp;autoplay=1\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>",
+      "userId": "",
+      "category": "",
+      "language": "",
+      "postedOn": "",
+      "likes": [],
+      "comments": []
+    }
+  ]
+}

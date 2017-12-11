@@ -1,0 +1,16 @@
+.nav .fa {
+    font-size: 2em;
+    line-height: 20px;
+  }
+  
+  .navbar {
+    margin-bottom: 0;
+  }
+  
+  img {
+    margin-right: .25em;
+    display: inline-block;
+    width: 2.2em;
+    border-radius: 500rem;
+    top: -2px;
+  }

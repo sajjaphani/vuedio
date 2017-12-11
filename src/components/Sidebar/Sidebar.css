@@ -1,0 +1,22 @@
+.FeedSection {
+    margin-bottom: 10px;
+}
+
+.FeedCustomize{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: baseline;
+    -ms-flex-align: baseline;
+    align-items: baseline;
+    margin-bottom: 10px;
+}
+
+div.FeedCustomize span span {
+    color: orange;
+    font-size: 14px;
+    font-weight: 600;
+}

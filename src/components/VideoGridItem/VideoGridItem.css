@@ -1,0 +1,11 @@
+.PostGridItem .GridItemTitle {
+    line-height: 1em;
+    height: 2em;
+    overflow: hidden;
+  }
+
+  .GridItemChannel {
+    line-height: 1.2em;
+    height: 1.2em;
+    overflow: hidden;
+  }
